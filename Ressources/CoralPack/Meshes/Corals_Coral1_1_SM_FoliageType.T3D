@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Foliage.FoliageType_InstancedStaticMesh Name="Corals_Coral1_1_SM_FoliageType" ExportPath=/Script/Foliage.FoliageType_InstancedStaticMesh'"/Game/Corals/Meshes/Corals_Coral1_1_SM_FoliageType.Corals_Coral1_1_SM_FoliageType"'
+   Mesh=/Script/Engine.StaticMesh'"/Game/Corals/Meshes/Corals_Coral1_1_SM.Corals_Coral1_1_SM"'
+   UpdateGuid=65CC396A44364C363898999AD995C6C4
+   ScaleX=(Min=3.000000,Max=9.000000)
+   MeshBounds=(Origin=(X=0.000017,Y=0.000002,Z=25.108503),BoxExtent=(X=27.903130,Y=30.050806,Z=25.875200),SphereRadius=34.063744)
+   LowBoundOriginRadius=(X=1.622576,Y=0.609111,Z=19.782108)
+   ScaleCurve=(EditorCurveData=())
+   DensityFalloff=(FalloffCurve=(EditorCurveData=()))
+End Object
