@@ -1,0 +1,19 @@
+Algues penchent plus
+Declencheur blanc corail et stop blanc corail
+
+Texture landscape recif rocailleuse, donner impression + de relief
+
+Transition orange vers bleu et stries, avoir les stries visibles -> Number one
+
+Reparer le dezoom 
+
+Antho: Reorganiser coraux a la limite entre les deux especes
+Supprimer les algues en levitation
+Remplir le passage avec des algues
+Redescendre qd on passe la crete, on reste au fond du lagon
+Habiller avec des patates au fond
+
+La pondaison doit se declencher qd on arrive a la patate
+
+Rajouter Effet de courant au debut pr faire moins vide
+
