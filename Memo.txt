@@ -1,19 +1,36 @@
-Algues penchent plus
-Declencheur blanc corail et stop blanc corail
+Tester son ambiance vr debut exp
 
-Texture landscape recif rocailleuse, donner impression + de relief
+mettre effet ondulation trainees larves, effet flotement drapeau
 
-Transition orange vers bleu et stries, avoir les stries visibles -> Number one
+garder proportion trainee
 
-Reparer le dezoom 
+mettre trainee plus au bord de la larve
 
-Antho: Reorganiser coraux a la limite entre les deux especes
-Supprimer les algues en levitation
-Remplir le passage avec des algues
-Redescendre qd on passe la crete, on reste au fond du lagon
-Habiller avec des patates au fond
+qd larve freine, vfx disparait progressivement
 
-La pondaison doit se declencher qd on arrive a la patate
+controler trainee orientation depuis sequencer
 
-Rajouter Effet de courant au debut pr faire moins vide
+bebe polype corriger changement texture
+
+Au lieu que ca soit le fond, c'est le corail qui passe du orange plein au bleu, le bleu part du centre du corail
+
+Refaire polype centre transparent, contour bleu
+
+Mettre tous les polypes de la meme couleur que celui du milieu
+
+Les coraux doivent tous etre jaune
+
+puis 60% des coraux commencent a blanchir, puis a tous devenir orange et marron
+
+faire systeme scripte pr les coraux
+
+
+On est souffle par le courant quand on monte
+rajouter parametre algues qui suivent la soufflee
+
+L'ile doit prendre les 3/5 du paysage et faut une ile montagneuse 
+
+
+
+
 
